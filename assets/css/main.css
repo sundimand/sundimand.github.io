@@ -109,7 +109,7 @@
 	}
 
 	body, input, select, textarea {
-		color: #777;
+		color: #000;
 		font-family: "Source Sans Pro", sans-serif;
 		/* font-size: 16pt; */
 		font-size: 16pt;
@@ -2061,7 +2061,7 @@
 		header.major p {
 			display: inline-block;
 			border-top: solid 2px #e5e5e5;
-			color: #777;
+			color: #000;
 			margin: 1.5em 0 0 0;
 			padding: 1.5em 0 0 0;
 			font-style: normal;
@@ -2129,7 +2129,7 @@
 	}
 
 		select option {
-			color: #777;
+			color: #000;
 			background-color: #f5f5f5;
 		}
 
@@ -2169,7 +2169,7 @@
 		input[type="checkbox"] + label,
 		input[type="radio"] + label {
 			text-decoration: none;
-			color: #777;
+			color: #000;
 			cursor: pointer;
 			display: inline-block;
 			font-size: 1em;
@@ -2825,7 +2825,7 @@
 		.button.alt {
 			background-color: transparent;
 			box-shadow: inset 0 0 0 2px #e5e5e5;
-			color: #777;
+			color: #000;
 		}
 
 			input[type="submit"].alt:hover,
@@ -2878,7 +2878,7 @@
 		input[type="button"]:disabled,
 		.button.disabled,
 		.button:disabled {
-			background-color: #777 !important;
+			background-color: #000 !important;
 			box-shadow: inset 0 -0.15em 0 0 rgba(0, 0, 0, 0.15);
 			color: #f5f5f5 !important;
 			cursor: default;
@@ -3247,7 +3247,7 @@
 
 			#main > header p {
 				border-top: solid 2px #e5e5e5;
-				color: #777;
+				color: #000;
 				display: inline-block;
 				font-style: normal;
 				margin: 1em 0 0 0;
@@ -3769,7 +3769,8 @@
 					}
 
 					#main > header p {
-						font-size: 1em;
+						/* font-size: 1em; */
+						font-size: 1.3em;
 						padding-bottom: 1em;
 					}
 
