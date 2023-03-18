@@ -110,7 +110,8 @@
 
 	body, input, select, textarea {
 		color: #000;
-		font-family: "Source Sans Pro", sans-serif;
+		/* font-family: "Source Sans Pro", sans-serif; */
+		font-family: "Arial", Helvetica, sans-serif;
 		/* font-size: 16pt; */
 		font-size: 18px;
 		font-weight: 300;
@@ -216,6 +217,7 @@
 
 	blockquote {
 		border-left: solid 4px #e5e5e5;
+		font-size: 1.2em;
 		font-style: italic;
 		margin: 0 0 2em 0;
 		padding: 0.5em 0 0.5em 2em;
@@ -2938,6 +2940,7 @@
 	}
 
 	#header {
+		font-size: 1.2em;
 		background: #444;
 		color: #bbb;
 		cursor: default;
@@ -2968,6 +2971,7 @@
 			}
 
 		#header nav {
+			/* font-size: 1.2em; */
 			height: inherit;
 			line-height: inherit;
 			position: absolute;
