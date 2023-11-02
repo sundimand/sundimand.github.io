@@ -27,8 +27,12 @@
 				<!-- coba -->
 				<header id="header" class="alt">
 
-					<object type="text/html" data="header.html"></object>
-
+					<div id="content"></div>
+					<script>
+					  $(function(){
+						$("#content").load("header.html");
+					  });
+					</script>
 				
 				</header>
 
