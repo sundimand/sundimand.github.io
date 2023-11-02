@@ -18,14 +18,10 @@
 <!-- Header -->
 <header id="header" class="alt">
 
-			<script>
-				// Get the template element
-				let template = document.getElementById("header");
-				// Clone the template content
-				let clone = template.content.cloneNode(true);
-				// Insert the clone into the document body
-				document.body.appendChild(clone);
-				</script>
+	<iframe src="header.html" onload="this.before((this.contentDocument.body||this.contentDocument).children[0]);this.remove()"></iframe>
+
+			
+
 
 </header>
 
