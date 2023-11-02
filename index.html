@@ -1,0 +1,198 @@
+<!DOCTYPE HTML>
+<!--
+	Alpha by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>Sundiman D</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+	</head>
+	<body class="landing is-preload">
+		<div id="page-wrapper">
+
+			<!-- Header -->
+				<header id="header" class="alt">
+					<h1><a href="index.html">A Story</a> of Sundiman</h1>
+					<nav id="nav">
+						<ul>
+							<li><a href="index.html">Home</a></li>
+
+							<li>
+								<a href="#" class="icon solid fa-angle-down">Python for Business</a>
+								<ul>
+									<li><a href="generic.html">Generic</a></li>
+									<li><a href="contact.html">Contact</a></li>
+									<li><a href="elements.html">Elements</a></li>
+									<li>
+										<a href="#">Submenu</a>
+										<ul>
+											<li><a href="#">Option One</a></li>
+											<li><a href="#">Option Two</a></li>
+											<li><a href="#">Option Three</a></li>
+											<li><a href="#">Option Four</a></li>
+										</ul>
+									</li>
+								</ul>
+							</li>
+							
+							<li>
+								<a href="#" class="icon solid fa-angle-down">R Tutorial</a>
+								<ul>
+									<li><a href="generic.html">Generic</a></li>
+									<li><a href="contact.html">Contact</a></li>
+									<li><a href="elements.html">Elements</a></li>
+									<li>
+										<a href="#">Submenu</a>
+										<ul>
+											<li><a href="#">Option One</a></li>
+											<li><a href="#">Option Two</a></li>
+											<li><a href="#">Option Three</a></li>
+											<li><a href="#">Option Four</a></li>
+										</ul>
+									</li>
+								</ul>
+							</li>
+
+							<li><a href="index.html">About</a></li>
+
+							<li><a href="index.html">Research</a></li>
+
+							<!-- <li><a href="#" class="button">Sign Up</a></li> -->
+						</ul>
+					</nav>
+				</header>
+
+			<!-- Banner -->
+				<section id="banner">
+					<h2>It's Me, Sundiman </h2>
+					<p>"Great ideas start with a cup of coffee and a little bit of imagination."</p>
+					<!-- <ul class="actions special">
+						<li><a href="#" class="button primary">Sign Up</a></li>
+						<li><a href="#" class="button">Learn More</a></li>
+					</ul> -->
+				</section>
+
+			<!-- Main -->
+				<section id="main" class="container">
+
+					<section class="box special">
+						<header class="major">
+							<h2>My Great Way to Return Home</h2>
+							<p>A person sitting on a rocking chair in a peaceful garden, surrounded by trees and flowers. 
+								Life is a journey to embrace the challenges, help those in need, collaborate with others, 
+								and cherish the moments we have with our loved ones.
+							
+							</p>
+						</header>
+						<span class="image featured"><img src="images/pic01.jpg" alt="" /></span>
+					</section>
+
+					<section class="box special features">
+						<div class="features-row">
+							<section>
+								<span class="icon solid major fa-bolt accent2"></span>
+								<h3>Teaching</h3>
+								<p>Effective teaching is about creating an environment that fosters learning.</p>
+							</section>
+							<section>
+								<span class="icon solid major fa-chart-area accent3"></span>
+								<h3>Research</h3>
+								<p>My first step is to identify a topic, by brainstorming ideas and reviewing the existing literature to identify gaps in our knowledge.</p>
+							</section>
+						</div>
+						<div class="features-row">
+							<section>
+								<span class="icon solid major fa-cloud accent4"></span>
+								<h3>Community service</h3>
+								<p>It's about engaging with the people around us and working together to create positive change.</p>
+							</section>
+							<section>
+								<span class="icon solid major fa-lock accent5"></span>
+								<h3>Collaborate</h3>
+								<p>When people collaborate, they bring different perspectives, ideas, and strengths to the table. This can lead to new and innovative solutions.</p>
+							</section>
+						</div>
+					</section>
+
+					<div class="row">
+						<div class="col-6 col-12-narrower">
+
+							<section class="box special">
+								<span class="image featured"><img src="images/pic02.jpg" alt="" /></span>
+								<h3>Statistics for Business</h3>
+								<p>Statistics supports sustainable business by guiding innovative and informed decisions, 
+									benefiting both profits and the planet.</p>
+								<ul class="actions special">
+									<li><a href="#" class="button alt">Learn More</a></li>
+								</ul>
+							</section>
+
+						</div>
+						<div class="col-6 col-12-narrower">
+
+							<section class="box special">
+								<span class="image featured"><img src="images/pic03.jpg" alt="" /></span>
+								<h3>Business Data Science</h3>
+								<p>Business Data Science empowers sustainable business by leveraging data-driven insights 
+									to drive impactful decisions for long-term success.</p>
+								<ul class="actions special">
+									<li><a href="#" class="button alt">Learn More</a></li>
+								</ul>
+							</section>
+
+						</div>
+					</div>
+
+				</section>
+
+			<!-- CTA -->
+				<section id="cta">
+
+					<h2>Sign up for beta access</h2>
+					<p>Blandit varius ut praesent nascetur eu penatibus nisi risus faucibus nunc.</p>
+
+					<form>
+						<div class="row gtr-50 gtr-uniform">
+							<div class="col-8 col-12-mobilep">
+								<input type="email" name="email" id="email" placeholder="Email Address" />
+							</div>
+							<div class="col-4 col-12-mobilep">
+								<input type="submit" value="Sign Up" class="fit" />
+							</div>
+						</div>
+					</form>
+
+				</section>
+
+			<!-- Footer -->
+				<footer id="footer">
+					<ul class="icons">
+						<li><a href="#" class="icon brands fa-twitter"><span class="label">Twitter</span></a></li>
+						<li><a href="#" class="icon brands fa-facebook-f"><span class="label">Facebook</span></a></li>
+						<li><a href="#" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>
+						<li><a href="#" class="icon brands fa-github"><span class="label">Github</span></a></li>
+						<li><a href="#" class="icon brands fa-dribbble"><span class="label">Dribbble</span></a></li>
+						<li><a href="#" class="icon brands fa-google-plus"><span class="label">Google+</span></a></li>
+					</ul>
+					<ul class="copyright">
+						<li>&copy; Untitled. All rights reserved.</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+					</ul>
+				</footer>
+
+		</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.dropotron.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
